@@ -24,7 +24,7 @@
       "@/components/*": ["./src/components/*"],
       "@/hooks/*": ["./src/hooks/*"],
       "@/lib/*": ["./src/lib/*"],
-      "@/styles/*": ["./src/styles/*"],
+      "@/styles/*": ["./styles/*"],
       "@/prisma/*": ["./src/prisma/*"],
       "@/assets/*": ["./src/assets/*"]
     }
